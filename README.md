@@ -3,9 +3,13 @@
 A Flutter Test project.
 
 Design of a Flutter App that consists of:
+
 A Splash screen
+
 A Home screen
+
 A Search screen
+
 A Details screen
 
 The app contains a bottom navigation to be able to navigate between the Home Screen and the Search Screen.
