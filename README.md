@@ -2,6 +2,17 @@
 
 A Flutter Test project.
 
+Design of a Flutter App that consists of:
+A Splash screen
+A Home screen
+A Search screen
+A Details screen
+
+The app contains a bottom navigation to be able to navigate between the Home Screen and the Search Screen.
+The app’s UI is similar to that of Netflix.
+
+
+
 # Splash Screen-
 ![image](https://github.com/user-attachments/assets/51a6a895-5bb1-453e-964f-4823d1cbc447)
 
