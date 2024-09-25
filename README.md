@@ -13,6 +13,7 @@ A Search screen
 A Details screen
 
 The app contains a bottom navigation to be able to navigate between the Home Screen and the Search Screen.
+
 The app’s UI is similar to that of Netflix.
 
 
